@@ -1,5 +1,5 @@
 path:
-https://raw.githubusercontent.com/ramjam97/assets/refs/heads/master/company-logo/
+https://raw.githubusercontent.com/ramjam97/assets/refs/heads/master/logo/
 
 example:
-https://raw.githubusercontent.com/ramjam97/assets/refs/heads/master/company-logo/EPCPS.jpg
+https://raw.githubusercontent.com/ramjam97/assets/refs/heads/master/logo/EPCPS.jpg
